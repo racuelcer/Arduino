@@ -8,7 +8,7 @@ void setup() {
   Serial.begin (9600);       
   pinMode(Pecho, INPUT);     
   pinMode(Ptrig, OUTPUT);    
-  pinMode(13, 1);           
+  pinMode(4, 1);           
   }
   
 void loop() {
