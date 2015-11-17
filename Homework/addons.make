@@ -1,0 +1,1 @@
+/Users/RaquelCer/Downloads/ofxAnimateText-master
